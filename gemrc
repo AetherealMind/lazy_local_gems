@@ -1,0 +1,6 @@
+ gem:  --local --no-rdoc --no-ri
+ gemhome: /home/[USER_NAME_HERE]/.gem_repo
+ gempath:
+     - /home/[USER_NAME_HERE]/.gem_repo
+     - /home/[USER_NAME_HERE]/.gem/ruby/1.8
+

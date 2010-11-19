@@ -1,0 +1,10 @@
+
+
+FIRST 
+	in the gemrc file change the place marker [USER_NAME_HERE] with the obvious answer
+SECOND
+	in the cmd line type 
+			  ruby direction.rb  (NO SUDO)
+			  
+	  -Enjoy!  
+	  Ramon <ramon.brooker[at]aetherealmind[dot]com> 
